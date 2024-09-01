@@ -1,4 +1,4 @@
-### Step 1: Install Required Libraries
+### Install Required Libraries
 First, you need to install the Whisper model and any other dependencies:
 
 ```shell
